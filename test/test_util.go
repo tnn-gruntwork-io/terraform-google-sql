@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/gcp"
-	"github.com/gruntwork-io/terratest/modules/terraform"
+	"github.com/tnn-gruntwork-io/terratest/modules/gcp"
+	"github.com/tnn-gruntwork-io/terratest/modules/terraform"
 	"github.com/stretchr/testify/require"
 )
 
